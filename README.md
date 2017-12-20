@@ -13,4 +13,3 @@ Video Demo : https://www.youtube.com/watch?v=Oun1HB1g04M
 ![alt text](https://github.com/hasibzunair/Urban-Search-and-Rescue-Using-Marsupial-Robots/blob/master/motherrobot.jpg)
 
 
-![alt text](https://github.com/hasibzunair/Urban-Search-and-Rescue-Using-Marsupial-Robots/blob/master/marsupial_sheild.PDF)
