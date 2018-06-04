@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=9Znmpk5mFVk
 # Baby Robots
 ![alt text](https://github.com/hasibzunair/Urban-Search-and-Rescue-Using-Marsupial-Robots/blob/master/babyrobot.jpg)
 
-# Mother Robots
+# Mother Robot
 ![alt text](https://github.com/hasibzunair/Urban-Search-and-Rescue-Using-Marsupial-Robots/blob/master/motherrobot.jpg)
 
 
