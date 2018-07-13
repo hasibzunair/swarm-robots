@@ -1,4 +1,5 @@
-# Urban-Search-and-Rescue-Using-Marsupial-Robots
+# swarm-robots
+
 Research project materials.
 
 # Abstract:
